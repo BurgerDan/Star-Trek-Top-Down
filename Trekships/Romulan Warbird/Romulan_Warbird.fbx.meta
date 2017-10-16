@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: bc327adafb465274f8972017d93ad5a4
+timeCreated: 1472744711
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: e_plasmamed
+    100002: e_steammed
+    100004: h_borg
+    100006: h_crew
+    100008: h_damage
+    100010: h_engines
+    100012: h_hardpoints
+    100014: h_hp01
+    100016: h_hp02
+    100018: h_hp03
+    100020: h_hp04
+    100022: h_hp05
+    100024: h_hp06
+    100026: h_hp07
+    100028: h_hp08
+    100030: h_hp09
+    100032: h_hp10
+    100034: h_hp11
+    100036: h_hp12
+    100038: h_hp13
+    100040: h_hp14
+    100042: h_hp15
+    100044: h_hp16
+    100046: h_hp17
+    100048: h_hp18
+    100050: h_hp19
+    100052: h_hp20
+    100054: h_hp21
+    100056: h_hp22
+    100058: h_hp23
+    100060: h_hp24
+    100062: h_hp25
+    100064: h_hp26
+    100066: h_life
+    100068: h_lights
+    100070: h_root
+    100072: h_sensors
+    100074: h_shield
+    100076: h_target
+    100078: m_ROMBIRD_1:13
+    100080: m_ROMBIRD_1:3
+    100082: m_ROMBIRD_1:5
+    100084: m_ROMBIRD_1:6
+    100086: ROMBIRD_1:13
+    100088: ROMBIRD_1:3
+    100090: ROMBIRD_1:5
+    100092: ROMBIRD_1:6
+    100094: //RootNode
+    400000: e_plasmamed
+    400002: e_steammed
+    400004: h_borg
+    400006: h_crew
+    400008: h_damage
+    400010: h_engines
+    400012: h_hardpoints
+    400014: h_hp01
+    400016: h_hp02
+    400018: h_hp03
+    400020: h_hp04
+    400022: h_hp05
+    400024: h_hp06
+    400026: h_hp07
+    400028: h_hp08
+    400030: h_hp09
+    400032: h_hp10
+    400034: h_hp11
+    400036: h_hp12
+    400038: h_hp13
+    400040: h_hp14
+    400042: h_hp15
+    400044: h_hp16
+    400046: h_hp17
+    400048: h_hp18
+    400050: h_hp19
+    400052: h_hp20
+    400054: h_hp21
+    400056: h_hp22
+    400058: h_hp23
+    400060: h_hp24
+    400062: h_hp25
+    400064: h_hp26
+    400066: h_life
+    400068: h_lights
+    400070: h_root
+    400072: h_sensors
+    400074: h_shield
+    400076: h_target
+    400078: m_ROMBIRD_1:13
+    400080: m_ROMBIRD_1:3
+    400082: m_ROMBIRD_1:5
+    400084: m_ROMBIRD_1:6
+    400086: ROMBIRD_1:13
+    400088: ROMBIRD_1:3
+    400090: ROMBIRD_1:5
+    400092: ROMBIRD_1:6
+    400094: //RootNode
+    2300000: ROMBIRD_1:13
+    2300002: ROMBIRD_1:3
+    2300004: ROMBIRD_1:5
+    2300006: ROMBIRD_1:6
+    3300000: ROMBIRD_1:13
+    3300002: ROMBIRD_1:3
+    3300004: ROMBIRD_1:5
+    3300006: ROMBIRD_1:6
+    4300000: ROMBIRD_1:3
+    4300002: ROMBIRD_1:5
+    4300004: ROMBIRD_1:6
+    4300006: ROMBIRD_1:13
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

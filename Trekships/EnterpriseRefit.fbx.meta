@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: 35e8f4436503b2442b20887ec629debc
+timeCreated: 1455136637
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bridge
+    100002: e_plasmasml
+    100004: e_steamsml
+    100006: //RootNode
+    100008: h_Borg
+    100010: h_Crew
+    100012: h_Damage
+    100014: h_Engines
+    100016: h_Geometry
+    100018: h_Hardpoints
+    100020: h_hp01
+    100022: h_hp02
+    100024: h_hp03
+    100026: h_hp04
+    100028: h_hp05
+    100030: h_hp06
+    100032: h_hp07
+    100034: h_hp08
+    100036: h_hp09
+    100038: h_hp10
+    100040: h_hp11
+    100042: h_hp12
+    100044: h_hp13
+    100046: h_hp14
+    100048: h_hp15
+    100050: h_hp16
+    100052: h_hp17
+    100054: h_hp18
+    100056: h_hp19
+    100058: h_hp20
+    100060: h_hp21
+    100062: h_hp22
+    100064: h_hp23
+    100066: h_hp24
+    100068: h_hp25
+    100070: h_hp26
+    100072: h_hp27
+    100074: h_hp28
+    100076: h_hp29
+    100078: h_hp30
+    100080: h_hp31
+    100082: h_hp32
+    100084: h_hp33
+    100086: h_hp34
+    100088: h_hp35
+    100090: h_hp36
+    100092: h_Life
+    100094: h_Lights
+    100096: h_lod1
+    100098: h_lod2
+    100100: h_root
+    100102: h_Scene Root
+    100104: h_Sensors
+    100106: h_Shield
+    100108: h_Target
+    100110: Hull
+    100112: m_Bridge
+    100114: m_Hull
+    100116: m_Nacelles
+    100118: m_SaucerBottom
+    100120: m_SaucerTop
+    100122: Nacelles
+    100124: s_crew1
+    100126: s_crew2
+    100128: s_crew3
+    100130: s_crew4
+    100132: s_crew5
+    100134: s_greenstrobe
+    100136: s_redstrobe
+    100138: s_redstrobe_01
+    100140: s_redstrobebig
+    100142: s_sensor
+    100144: s_yellowstrobe_01
+    100146: SaucerBottom
+    100148: SaucerTop
+    400000: Bridge
+    400002: e_plasmasml
+    400004: e_steamsml
+    400006: //RootNode
+    400008: h_Borg
+    400010: h_Crew
+    400012: h_Damage
+    400014: h_Engines
+    400016: h_Geometry
+    400018: h_Hardpoints
+    400020: h_hp01
+    400022: h_hp02
+    400024: h_hp03
+    400026: h_hp04
+    400028: h_hp05
+    400030: h_hp06
+    400032: h_hp07
+    400034: h_hp08
+    400036: h_hp09
+    400038: h_hp10
+    400040: h_hp11
+    400042: h_hp12
+    400044: h_hp13
+    400046: h_hp14
+    400048: h_hp15
+    400050: h_hp16
+    400052: h_hp17
+    400054: h_hp18
+    400056: h_hp19
+    400058: h_hp20
+    400060: h_hp21
+    400062: h_hp22
+    400064: h_hp23
+    400066: h_hp24
+    400068: h_hp25
+    400070: h_hp26
+    400072: h_hp27
+    400074: h_hp28
+    400076: h_hp29
+    400078: h_hp30
+    400080: h_hp31
+    400082: h_hp32
+    400084: h_hp33
+    400086: h_hp34
+    400088: h_hp35
+    400090: h_hp36
+    400092: h_Life
+    400094: h_Lights
+    400096: h_lod1
+    400098: h_lod2
+    400100: h_root
+    400102: h_Scene Root
+    400104: h_Sensors
+    400106: h_Shield
+    400108: h_Target
+    400110: Hull
+    400112: m_Bridge
+    400114: m_Hull
+    400116: m_Nacelles
+    400118: m_SaucerBottom
+    400120: m_SaucerTop
+    400122: Nacelles
+    400124: s_crew1
+    400126: s_crew2
+    400128: s_crew3
+    400130: s_crew4
+    400132: s_crew5
+    400134: s_greenstrobe
+    400136: s_redstrobe
+    400138: s_redstrobe_01
+    400140: s_redstrobebig
+    400142: s_sensor
+    400144: s_yellowstrobe_01
+    400146: SaucerBottom
+    400148: SaucerTop
+    2300000: Bridge
+    2300002: Hull
+    2300004: Nacelles
+    2300006: SaucerBottom
+    2300008: SaucerTop
+    3300000: Bridge
+    3300002: Hull
+    3300004: Nacelles
+    3300006: SaucerBottom
+    3300008: SaucerTop
+    4300000: SaucerTop
+    4300002: SaucerBottom
+    4300004: Nacelles
+    4300006: Bridge
+    4300008: Hull
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
